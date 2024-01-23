@@ -1,4 +1,5 @@
-# Continuous Integration ![https://github.com/ValentinaWatson/continuous-integration/actions?query=workflow%3Atests](https://github.com/ValentinaWatson/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration [![Tests](https://github.com/ValentinaWatson/continuous-integration/workflows/tests/badge.svg)](https://github.com/ValentinaWatson/continuous-integration/actions?query=workflow%3Atests)
+
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
