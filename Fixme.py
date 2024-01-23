@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
+
 def factorial(n):
     '''
     Returns the product of all numbers from 1 to n.
-
 
     >>> factorial(1)
     1
@@ -22,6 +22,7 @@ def factorial(n):
     for i in range(2, n+1):
         result *= i
     return result
+
 
 def triangular(n):
     '''
